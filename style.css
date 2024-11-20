@@ -554,37 +554,7 @@ section.courses{
 	font-size: 20px;
 	color: var(--dark-heading-clr);
 }
-.course-card .course-desc{
-	margin: 20px 0px;
-	display: flex;
-	justify-content: space-between;
-}
-.course-card .course-desc span{
-	font-size: 14px;
-	font-weight: 500;
-	color: var(--dark-text-clr);
-}
-.course-card .course-desc span i{
-	color: var(--primary-clr);
-}
-.course-card .course-ratings{
-	padding: 15px 0px 0px;
-	display: flex;
-	justify-content: space-between;
-	border-top: 1px solid #ccc;
-}
-.course-card .course-ratings span{
-	color: var(--primary-clr);
-	font-size: 18px;
-	font-weight: bold;
-}
-.course-card .course-ratings span:nth-child(1) i{
-	color: gold;
-	font-size: 14px;
-}
-.course-card .course-ratings span b{
-	font-size: 24px;
-}
+
 /*   === Courses Section Styling Ends ===   */
 
 /*   === Courses Categories Section Styling Starts ===   */
