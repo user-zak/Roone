@@ -8,7 +8,7 @@ html{
 	scroll-behavior: smooth;
 	
 	/* Variables For Storing Colors */
-	--primary-clr: #0f2b3b;
+	--primary-clr: #010c0f;
 	--primary-medium-clr: #d8e9df;
 	--primary-light-clr: #edfaf1;
 	--bg-clr-1: #ffffff;
@@ -116,8 +116,8 @@ section.home{
 	text-decoration: none;
 }
 .main-navbar .logo img{
-	width: 120px;
-	height: auto;
+	width: 240px;
+	margin-top: 30px;
 }
 .main-navbar .nav-list{
 	list-style: none;
